@@ -1,2 +1,3 @@
-# bright8ray3code-data-analysis
-A data-analysis project by henry92865320
+# Data Analysis Project
+
+A Python project for analyzing and visualizing data.
